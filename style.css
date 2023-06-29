@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+body{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+div.container{
+    padding-bottom: 5px;
+}
+
+h6.text-center{
+    color: rgb(230, 147, 14);
+}
+p.card-text{
+    text-align:center;
+    font-size: small;
+}
+hr{
+    color: aliceblue;
+}
+ul.nav.nav-pills{
+    border: o.5px solid rgba(255, 255, 255, 0.916);
+}
+li.nav-item{
+    border: 0.5px solid rgba(244, 239, 239, 0.732);
+    border-radius: 5px;
+}
+p.text{
+    color: rgb(183, 213, 239);
+    text-align: center;
+    font-size: medium;
+}
+div.footer{
+    padding-top: 50px;
+}
+ul.list-unstyled.d-flex{
+    align-content: flex-end;
+}
